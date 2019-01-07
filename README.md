@@ -1,4 +1,5 @@
 tetris
 ======
 
-Here is a mirror of my tetris game, hosted at htmltetris.com
+
+an edited version of the game i found
